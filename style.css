@@ -6,7 +6,7 @@
 }
 body{
 	background:#1A2129;
-	background-image:url(ika-website/gelap.png);
+	background-image:url(saya-punya/gelap.jpg);
 	color:#fff;
 	
 }
@@ -14,7 +14,7 @@ body{
 #header{
 	width:100%;
 	height:100vh;
-	background-image:url(ika-website/cantik.png);
+	background-image:url(saya-punya/cantik.jpg);
 	background-size:cover;
 	background-position:left;
 	font-weight:bold;
